@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>fish12.jpg</filename>
+	<path>C:\Users\nhi\Desktop\data\fish12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>178</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>45</ymin>
+			<xmax>389</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,2 @@
+link dataset trên drive: https://drive.google.com/drive/folders/1Kt6vKswVlh8ONndvZSL5Dn6kiphIDZko?usp=sharing
+link model fish_model.pth: https://drive.google.com/file/d/1vClo0mfC9EUqL2AERLVasekEhHM0YpNJ/view?usp=sharing
